@@ -5,7 +5,7 @@ I'm a final-year BCA student with a passion for technology and a diverse skill s
 ## 🚀 My Tech Stack
 
 - **Languages**: C, C++, C#, Python, SQL, JavaScript
-- **Libraries & Frameworks**: ExpressJS, ReactJS, NodeJS
+- **Libraries & Frameworks**: ExpressJS, ReactJS, NextJS, VueJS, NodeJS
 - **Technologies**: Git, Rest API,
 - **Developer Tools**: Photoshop, Blender, Unity Engine, VSCode, Amazon Web Services, Google Cloud Platform
 - **Operating Systems**: Windows, Linux, MacOS
